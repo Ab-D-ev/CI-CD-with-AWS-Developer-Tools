@@ -34,7 +34,7 @@ To configure this project, you will need to update the following files:
 - `install_nginx.sh` : This script installs NGINX in the server
 - `start_nginx.sh` : This script starts the NGINX
 
-## How to user :
+## How to use :
 
 To use this project, follow these steps:
 
@@ -56,3 +56,14 @@ If you would like to contribute to this project, please open an issue or submit 
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
+
+
+##Screenshots
+
+Pipeline
+
+![AWS-CI-CD](https://github.com/Ab-D-ev/CI-CD-with-AWS-Developer-Tools/assets/88940690/d49e0565-8771-44e4-8d14-8110e901a607)
+
+Output 
+![image](https://github.com/Ab-D-ev/CI-CD-with-AWS-Developer-Tools/assets/88940690/00447446-1f8e-4856-be31-4a85d1cc1ecc)
+
